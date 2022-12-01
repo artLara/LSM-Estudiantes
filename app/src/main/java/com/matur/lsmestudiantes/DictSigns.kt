@@ -128,16 +128,17 @@ class DictSigns {
             ))
 
         var alimentos = Topic(true, "Alimentos",
-            listOf("Aceite", "Arroz", "Azúcar", "Carne", "Chilaquiles", "Enchiladas", "Frijol",
+            listOf("Aceite", "Alimentos","Arroz", "Azúcar", "Carne", "Chilaquiles", "Enchiladas", "Frijol",
                     "Fruta", "Huevo", "Leche", "Pizza 1", "Pizza 2", "Pizza 3", "Pollo", "Pozole",
                     "Puerco", "Quesadilla", "Res", "Sal", "Salsa", "Sopa", "Spaghetti 1", "Spaghetti 2", "Spaghetti 3",
                     "Sushi", "Taco", "Tamal", "Tortillas", "Verdura"
             ),
             hashMapOf("Aceite" to R.raw.alimentos_aceite,
+                "Alimentos" to R.raw.alimentos_alimento,
                 "Arroz" to R.raw.alimentos_arroz,
                 "Azúcar" to R.raw.alimentos_azucar,
                 "Carne" to R.raw.alimentos_carne,
-                "Chilaquiles" to R.raw.alimentos_chilaquiles,
+                "Chilaquiles" to R.raw.video_compressing,
                 "Enchiladas" to R.raw.alimentos_enchiladas,
                 "Frijol" to R.raw.alimentos_frijol,
                 "Fruta" to R.raw.alimentos_fruta,
