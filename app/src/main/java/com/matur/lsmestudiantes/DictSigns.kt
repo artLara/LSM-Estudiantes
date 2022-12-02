@@ -26,8 +26,36 @@ class DictSigns {
             ))
 
         var abecedario = Topic(true, "Abecedario",
-            listOf("a", "h"),
-            hashMapOf("a" to R.raw.a_izq, "h" to R.raw.h_izq))
+            listOf("a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "L", "m", "n", "o", "p", "q",
+                    "r", "s", "t", "u", "v", "w","x", "y", "z"
+            ),
+            hashMapOf("a" to R.raw.abc_a,
+                "b" to R.raw.abc_b,
+                "c" to R.raw.abc_c,
+                "d" to R.raw.abc_d,
+                "e" to R.raw.abc_e,
+                "f" to R.raw.abc_f,
+                "g" to R.raw.abc_g,
+                "h" to R.raw.abc_h,
+                "i" to R.raw.abc_i,
+                "j" to R.raw.abc_j,
+                "k" to R.raw.abc_k,
+                "L" to R.raw.abc_l,
+                "m" to R.raw.abc_m,
+                "n" to R.raw.abc_n,
+                "o" to R.raw.abc_o,
+                "p" to R.raw.abc_p,
+                "q" to R.raw.abc_q,
+                "r" to R.raw.abc_r,
+                "s" to R.raw.abc_s,
+                "t" to R.raw.abc_t,
+                "u" to R.raw.abc_u,
+                "v" to R.raw.abc_v,
+                "w" to R.raw.abc_w,
+                "x" to R.raw.abc_x,
+                "y" to R.raw.abc_y,
+                "z" to R.raw.abc_z
+            ))
 
         var numeros = Topic(true, "Números",
             listOf("1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13",
@@ -138,7 +166,7 @@ class DictSigns {
                 "Arroz" to R.raw.alimentos_arroz,
                 "Azúcar" to R.raw.alimentos_azucar,
                 "Carne" to R.raw.alimentos_carne,
-                "Chilaquiles" to R.raw.video_compressing,
+                "Chilaquiles" to R.raw.alimentos_chilaquiles,
                 "Enchiladas" to R.raw.alimentos_enchiladas,
                 "Frijol" to R.raw.alimentos_frijol,
                 "Fruta" to R.raw.alimentos_fruta,
