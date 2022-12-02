@@ -221,10 +221,10 @@ class DictSigns {
                     "Tiburon 1", "Tiburon 2", "Tiburon 3", "Tigre", "Toro", "Vaca", "Venado", "Vibora",
                     "Zorrillo 1", "Zorrillo 2"
             ),
-            hashMapOf("Abeja" to R.raw.animales_abjea,
+            hashMapOf("Abeja" to R.raw.animales_abeja,
                 "Águila" to R.raw.animales_aguila,
                 "Alacran" to R.raw.animales_alacran,
-                "Animales" to R.raw.animales_aniamles,
+                "Animales" to R.raw.animales_animales,
                 "Araña" to R.raw.animales_arania,
                 "Ballena" to R.raw.animales_ballena,
                 "Borrego" to R.raw.animales_borrego,
