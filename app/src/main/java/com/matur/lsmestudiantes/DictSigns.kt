@@ -6,7 +6,7 @@ class DictSigns {
             listOf("Amarillo", "Azul", "Blanco", "Blanco más usado", "Café", "Carne", "Color", "Dorado",
                     "Gris", "Morado", "Naranja", "Negro", "Plateado", "Rojo", "Rojo más usado", "Rosa", "Verde"
             ),
-            hashMapOf("Amarillo" to R.raw.colores_amarilo,
+            hashMapOf("Amarillo" to R.raw.colores_amarillo,
                 "Azul" to R.raw.colores_azul,
                 "Blanco" to R.raw.colores_blanco,
                 "Blanco más usado" to R.raw.colores_blanco_habitual,
